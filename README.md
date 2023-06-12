@@ -1,6 +1,6 @@
 # Hello, GitHub! 👋
 
-I'm a **Product Manager** by day, **"amateur" coder** by night, based in the bustling tech hub of São Paulo, Brazil. 🇧🇷
+I'm a **Product Manager** by day, **"amateur" coder** by night, based in the vibrant tech hub of São Paulo, Brazil. 🇧🇷
 
 By day, I'm busy driving product visions, communicating with stakeholders, and tackling user experiences head on. When I'm not PMing, you'll find me in the realm of web development. 💻
 
