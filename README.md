@@ -2,7 +2,7 @@
 
 I'm a **Product Manager** by day, **"amateur" coder** by night, based in the vibrant tech hub of São Paulo, Brazil. 🇧🇷
 
-By day, I'm busy driving product visions, communicating with stakeholders, and tackling user experiences head on. When I'm not PMing, you'll find me in the realm of web development. 💻
+By day, I'm busy driving product visions, communicating with stakeholders, and tackling user experiences head on. When I'm not PMing, you'll find me in the realm of Web Development. 💻
 
 Why code? To understand my dev team better, uncover the tech behind products, and add a little bit more techie ⚡ to my PM skills.
 
