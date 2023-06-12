@@ -4,7 +4,7 @@ I'm a **Product Manager** by day, **"amateur" coder** by night, based in the vib
 
 By day, I'm busy driving product visions, communicating with stakeholders, and tackling user experiences head on. When I'm not PMing, you'll find me in the realm of web development. 💻
 
-WWhy code? To understand my dev team better, uncover the tech behind products, and add a little bit more techie ⚡ to my PM skills.
+Why code? To understand my dev team better, uncover the tech behind products, and add a little bit more techie ⚡ to my PM skills.
 
 Though coding is currently a hobby, I embrace my amateur status with curiosity and eagerness to learn. Here, you'll find my projects. They might be small, but each is created with a spirit of exploration and a fair share of `console.log()` statements. 😅
 
