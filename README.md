@@ -9,5 +9,3 @@ Why code? To understand my dev team better, uncover the tech behind products, an
 Though coding is currently a hobby, I embrace my amateur status with curiosity and eagerness to learn. Here, you'll find my projects. They might be small, but each is created with a spirit of exploration and a fair share of `console.log()` statements. 😅
 
 Remember, in a world where you can be anything, be the **Product Manager who codes**! Or at least tries... Catch you on the `commit` side. 💪 
-
-P.S. If you don't find me here, I'm probably sipping a Caipirinha on a beach somewhere! 🍹
